@@ -15,7 +15,7 @@ My posts are primarily written for students who are learning penetration testing
 
 **What to expect in this blog**: <br>
 For the time being, you will find primarily two types of posts in this blog:<br>
-1 – _**Topic deep dives**_,  like the [LFI deep dive on HTB Trick](/posts/2026-09-19-htb-trick-lfi-deep-dive), which aim to give you a deep understanding of a specific concept – be it showcasing it on a box or a topic as standalone. <br>
+1 – _**Topic deep dives**_,  like the [LFI deep dive on HTB Trick](/posts/htb-trick-lfi-deep-dive), which aim to give you a deep understanding of a specific concept – be it showcasing it on a box or a topic as standalone. <br>
  2 – _**traditional writeups**_, like the [HTB Administrator writeup](/posts/htb-administrator-writeup), where I'll be walking you through the entire box from start to finish, while providing helpful insights to improve areas such as enumeration methodology. <br>
 The emphasis of these posts will be on helping you understand the thinking required to overcome the obstacles you will encounter throughout your pentesting journey.
 
