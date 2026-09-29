@@ -1,9 +1,9 @@
 ---
-title: "HTB Administrator – Pure AD attack chains"
+title: "Writeup: HTB Administrator – Pure Active Directory, Bloodhound, and bloodyAD"
 date: 2026-09-23 16:00:00 +0200
 categories: [writeups]
 tags: [cpts-prep, AD, bloodhound, bloodyad, kerberoasting, hashcat]
-description: The perfect proving grounds to hone your active directory enumeration skills.
+description: The perfect proving grounds to sharpen your AD enumeration, Bloodhound, and bloodyAD skills
 media_subpath: /assets/img/posts/administrator/
 ---
 

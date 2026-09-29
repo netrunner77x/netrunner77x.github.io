@@ -1,9 +1,14 @@
 ---
-title: "LFI Deep Dive: One LFI, Three Ways to RCE – HTB Trick"
+title: "Deep Dive: LFI – One LFI, Three Ways to RCE – HTB Trick"
 date: 2026-09-19 17:00:00 +0200
-categories: [Deep-dives]
-tags: [cpts-prep, lfi, php, log-poisoning]
-description: A deep dive on how to use LFI in Trick
+categories:
+  - Deep-dives
+tags:
+  - cpts-prep
+  - lfi
+  - php
+  - log-poisoning
+description: A deep dive on how to use LFI in Trick; To fully understand the 3 different ways to gain RCE with LFI on Trick
 media_subpath: /assets/img/posts/trick/
 ---
 

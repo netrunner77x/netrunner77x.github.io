@@ -16,10 +16,9 @@ timezone: Europe/Berlin
 
 title: $ netrunner77x # the main title
 
-tagline: Cyber-sec – Topic deep dives and box writeups # it will display as the subtitle
+tagline: CPTS-certified | Topic deep dives & box writeups # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
   A cyber security blog for topic deep dives and machine writeups; HTB, THM, etc.
 
 # Fill in the protocol & hostname for your site.
@@ -29,22 +28,22 @@ url: "https://netrunner77x.github.io"
 github:
   username: netrunner77x # change to your GitHub username
 
-twitter:
-  username: netrunner77x # change to your Twitter username
+#twitter:
+#  username: netrunner77x # change to your Twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: Johannes Wilhelm
-  email: example@domain.com # change to your email address
+  name: Johannes Friedrich Wilhelm
+  email: johannes.wilhelm77@proton.me # change to your email address
   fediverse_handle: # fill in your fediverse handle. E.g. "@username@domain.com"
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your Twitter homepage
+    # https://twitter.com/username # change to your Twitter homepage
     - https://github.com/username # change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://www.linkedin.com/in/johannes-wilhelm-04537b205/
 
 # Site Verification Settings
 webmaster_verifications:
